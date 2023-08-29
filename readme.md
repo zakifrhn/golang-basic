@@ -10,23 +10,19 @@
     <a href="https://www.fazztrack.com/class/backend-golang">Join With Us</a>
     ·
 </p>
-<img width="154" alt="Screenshot 2023-08-29 200158" src="https://github.com/zakifrhn/golang-basic/assets/60335942/9c69be7d-f75c-4e4b-8967-a8257ada5a86">
 
 ## About this project
 - build function for reach result this below
-<img width="320" height="320" alt="Screenshot 2023-08-29 200158" src="https://github.com/zakifrhn/golang-basic/assets/60335942/9c69be7d-f75c-4e4b-8967-a8257ada5a86">
+
+<img width="200" height="200" alt="Screenshot 2023-08-29 200158" src="https://github.com/zakifrhn/golang-basic/assets/60335942/9c69be7d-f75c-4e4b-8967-a8257ada5a86">
+
 - built genrandom from input string
-  Example:
-  Input: genPass(“abcd”, “strong”)
-  Output : AbcD@123
+  
+<img width="200" height="auto" alt="Screenshot 2023-08-29 200416" src="https://github.com/zakifrhn/golang-basic/assets/60335942/e3e74276-ed13-4af1-ae48-85fc4511f990">
 
 - built function for for reach result this below
-  Example:
-  data
-  [1, 7, 3, 4, 8, 9]
+<img width="200" height="auto" alt="Screenshot 2023-08-29 200507" src="https://github.com/zakifrhn/golang-basic/assets/60335942/765ed979-ab72-4576-97e2-d2c59c6d2a7d">
 
-  input n = 7
-  output: 3 dan 4
 
 
 ## 🛠️ Installation Steps
