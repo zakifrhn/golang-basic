@@ -10,6 +10,7 @@
     <a href="https://www.fazztrack.com/class/backend-golang">Join With Us</a>
     ·
 </p>
+<img width="154" alt="Screenshot 2023-08-29 200158" src="https://github.com/zakifrhn/golang-basic/assets/60335942/9c69be7d-f75c-4e4b-8967-a8257ada5a86">
 
 ## About this project
 - build function for reach result this below
