@@ -14,13 +14,7 @@
 
 ## About this project
 - build function for reach result this below
-  Example:
-printSegitiga(5)
-*********    
- *******     
-  *****      
-   ***       
-    *  
+<img width="320" height="320" alt="Screenshot 2023-08-29 200158" src="https://github.com/zakifrhn/golang-basic/assets/60335942/9c69be7d-f75c-4e4b-8967-a8257ada5a86">
 - built genrandom from input string
   Example:
   Input: genPass(“abcd”, “strong”)
