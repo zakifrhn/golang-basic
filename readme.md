@@ -12,7 +12,7 @@
 </p>
 
 ## About this project
-- build function for reach result this below
+- build function for reach result like below this
 
 <img width="200" height="200" alt="Screenshot 2023-08-29 200158" src="https://github.com/zakifrhn/golang-basic/assets/60335942/9c69be7d-f75c-4e4b-8967-a8257ada5a86">
 
@@ -20,7 +20,7 @@
   
 <img width="200" height="auto" alt="Screenshot 2023-08-29 200416" src="https://github.com/zakifrhn/golang-basic/assets/60335942/e3e74276-ed13-4af1-ae48-85fc4511f990">
 
-- built function for for reach result this below
+- built function for for reach result like below this
 <img width="200" height="auto" alt="Screenshot 2023-08-29 200507" src="https://github.com/zakifrhn/golang-basic/assets/60335942/765ed979-ab72-4576-97e2-d2c59c6d2a7d">
 
 
