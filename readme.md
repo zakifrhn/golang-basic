@@ -12,16 +12,17 @@
 </p>
 
 ## About this project
-- build function for reach result this below
+- build function for receiver a parameter N will be rounded to the nearest tenth
 
-<img width="200" height="200" alt="Screenshot 2023-08-29 200158" src="https://github.com/zakifrhn/golang-basic/assets/60335942/9c69be7d-f75c-4e4b-8967-a8257ada5a86">
+<img width="174" alt="Screenshot 2023-08-29 202322" src="https://github.com/zakifrhn/golang-basic/assets/60335942/e07aaf08-94a5-4c39-a8ff-2511a20c8772">
 
-- built genrandom from input string
+- built struct for print fibonacci row, odd even row, and prime row 
+
+<img width="187" alt="Screenshot 2023-08-29 202558" src="https://github.com/zakifrhn/golang-basic/assets/60335942/406eb485-8bed-46a8-902e-b577e37d76d4">
   
-<img width="200" height="auto" alt="Screenshot 2023-08-29 200416" src="https://github.com/zakifrhn/golang-basic/assets/60335942/e3e74276-ed13-4af1-ae48-85fc4511f990">
 
-- built function for for reach result this below
-<img width="200" height="auto" alt="Screenshot 2023-08-29 200507" src="https://github.com/zakifrhn/golang-basic/assets/60335942/765ed979-ab72-4576-97e2-d2c59c6d2a7d">
+- continue built struct from abstract struct in below this
+<img width="176" alt="Screenshot 2023-08-29 202753" src="https://github.com/zakifrhn/golang-basic/assets/60335942/62bc74f4-b53a-4b4a-a246-459c8205dbe9">
 
 
 
@@ -32,7 +33,6 @@
 ```bash
 git clone https://github.com/zakifrhn/golang-basic.git
 ```
-
 or
 
 2. Install golang in your dekstop 
