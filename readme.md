@@ -16,16 +16,26 @@
 </p>
 
 ## About this project
-- build function for reach result this below
+- build function for receiver a slice params and a channel and the printout the sum 
 
-<img width="200" height="200" alt="Screenshot 2023-08-29 200158" src="https://github.com/zakifrhn/golang-basic/assets/60335942/9c69be7d-f75c-4e4b-8967-a8257ada5a86">
+<img width="191" alt="Screenshot 2023-08-30 083925" src="https://github.com/zakifrhn/golang-basic/assets/60335942/e26d57e3-4442-4433-be24-bdf677fbd373">
 
-- built genrandom from input string
-  
-<img width="200" height="auto" alt="Screenshot 2023-08-29 200416" src="https://github.com/zakifrhn/golang-basic/assets/60335942/e3e74276-ed13-4af1-ae48-85fc4511f990">
 
-- built function for for reach result this below
-<img width="200" height="auto" alt="Screenshot 2023-08-29 200507" src="https://github.com/zakifrhn/golang-basic/assets/60335942/765ed979-ab72-4576-97e2-d2c59c6d2a7d">
+- built a struct which contain a method for processing struct object N as a limit 
+
+<img width="158" alt="Screenshot 2023-08-30 084130" src="https://github.com/zakifrhn/golang-basic/assets/60335942/2f6cffc9-430e-4d26-a5e2-ee30dbef8585">
+
+
+- built two function running in different goroutine for transfer data
+
+<img width="168" alt="Screenshot 2023-08-30 084428" src="https://github.com/zakifrhn/golang-basic/assets/60335942/5d505d17-8b4b-4df7-b5ad-89b0452af243">
+
+
+-built one random program to implement one of Go routine
+waitGroup
+Buffer Chanel
+Close
+Mutex optional
 
 
 
